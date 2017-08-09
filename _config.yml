@@ -18,7 +18,7 @@ title: Victor Almeida
 description: > # this means to ignore newlines until "baseurl:"
   My personal site, an output of something to the world.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://victortxa.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  victortxa
 linkedin_username: victorxalmeida
@@ -26,11 +26,13 @@ linkedin_username: victorxalmeida
 # Build settings
 markdown: kramdown
 theme: minima
+
 plugins:
   - jekyll-feed
 
 # Other options
 permalink: blog/:year/:month/:title
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -43,3 +45,6 @@ permalink: blog/:year/:month/:title
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# Following this tutorial http://svmiller.com/blog/2015/08/create-your-website-in-jekyll/
+#jekyll serve --force_polling
