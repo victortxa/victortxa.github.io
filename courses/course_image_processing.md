@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Image processing course
 permalink: /courses/course-image-processing/
 ---
 
