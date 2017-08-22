@@ -2,6 +2,7 @@
 layout: page
 title: Image processing course
 permalink: /courses/course-image-processing/
+published: false
 ---
 
 All the assignments of the course are in [this](https://github.com/victortxa/assignments-vision-and-image-processing) repository.

@@ -2,6 +2,7 @@
 layout: page
 title: Courses
 permalink: /courses/
+published: false
 ---
 
 
