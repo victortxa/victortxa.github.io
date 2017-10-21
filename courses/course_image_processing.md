@@ -8,3 +8,5 @@ All the assignments of the course are in [this](https://github.com/victortxa/ass
 The first assignment is in this [notebook](https://github.com/victortxa/assignments-vision-and-image-processing/blob/master/1_notmnist.ipynb).
 
 The second assignment is in this [notebook](https://github.com/victortxa/assignments-vision-and-image-processing/blob/master/2_fullyconnected.ipynb).
+
+The third assignment is in this [notebook](https://github.com/victortxa/assignments-vision-and-image-processing/blob/master/4_convolutions.ipynb).
